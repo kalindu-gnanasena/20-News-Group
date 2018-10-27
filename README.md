@@ -1,7 +1,5 @@
 # 20 News Group - Feature Extraction
 
----
-
 ## Process
 `
 1. Download the dataset from given URL below
