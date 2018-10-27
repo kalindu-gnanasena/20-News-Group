@@ -62,7 +62,7 @@ The 20 newsgroup dataset was transformed by using the **Bag of word** and **Term
  **Used Functions**
  
  - [x] Bag of words - `CountVectorizer()`
- - [x] Bag of Words (Binary) - `CountVectorizer(binary-True)`
+ - [x] Bag of Words (Binary) - `CountVectorizer(binary=True)`
  - [x] TF-IDF - `TfidfVectorizer()`
 
 
