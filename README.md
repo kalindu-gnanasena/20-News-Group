@@ -18,7 +18,7 @@
 
 **This dataset is a collection of  20 newsgroups documents. The processing has been done for the purpose of feature extraction.**
 
-*This is a list of the 20 newsgroups:*
+*List of the 20 newsgroups:*
 ```
 - comp.graphics
 - comp.os.ms-windows.misc
