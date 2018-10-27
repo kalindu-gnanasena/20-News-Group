@@ -3,7 +3,7 @@
 ---
 
 ## Process
-
+`
 1. Download the dataset from given URL below
 2. Extract it.
 3. Identify the data distribution.
@@ -13,14 +13,14 @@
 7. Remove Stop words and other irrelevant parts using NLTK functions.
 8. Tokenize Words.
 9. Vectorize and divide Train and Test sets.
-10. Write data to CSV using pandas data frames.
+10. Write data to CSV using pandas data frames.`
 
 ## Overview:
 
 **This dataset is a collection of  20 newsgroups documents. The processing has been done for the purpose of feature extraction.**
 
 *This is a list of the 20 newsgroups:*
-
+`
 - comp.graphics
 - comp.os.ms-windows.misc
 - comp.sys.ibm.pc.hardware
@@ -36,17 +36,17 @@
 - talk.politics.guns
 - talk.politics.mideast talk.religion.misc
 - alt.atheism
-- soc.religion.christian
+- soc.religion.christian`
 
 #### Download Link: [20news-bydate.tar.gz ](http://qwone.com/~jason/20Newsgroups/20news-bydate.tar.gz) - 20 Newsgroups sorted by date; duplicates and some headers removed (18846 documents)
 
 The 20 newsgroup dataset was transformed by using the **Bag of word** and **Term frequency-Inverse document frequency (tf-idf)** method. The dataset after transformation consists of five main classes:
-    
+ `   
  - Computer
  - Recreational
  - Science
  - Talk show
- - Other
+ - Other`
  
  and each of these classes contains **`train.csv`** and **`test.csv`** files.
  
@@ -77,4 +77,4 @@ The 20 newsgroup dataset was transformed by using the **Bag of word** and **Term
 
 `talk_count_train.csv` `talk_count_test.csv` `talk_binary_train.csv` `talk_binary_test.csv` `talk_tfidf_train.csv` `talk_tfidf_test.csv`
 
-`other_count_train.csv` `other_count_test.csv` `other_binary_train.csv` `other_binary_test.csv` `other_tfidf_train.csv` `other_tfidf_test.
+`other_count_train.csv` `other_count_test.csv` `other_binary_train.csv` `other_binary_test.csv` `other_tfidf_train.csv` `other_tfidf_test.csv`
