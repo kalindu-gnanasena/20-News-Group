@@ -2,7 +2,7 @@
 
 ## Process
 ```
-1. Download the dataset from given URL below <br>
+1. Download the dataset from given URL below
 2. Extract it.
 3. Identify the data distribution.
 4. Categorized data as required.
