@@ -45,7 +45,6 @@ The 20 newsgroup dataset was transformed by using the **Bag of word** and **Term
  - Recreational
  - Science
  - Talk show
- - Other
  ``` 
  and each of these classes contains **`train.csv`** and **`test.csv`** files.
  
@@ -75,5 +74,3 @@ The 20 newsgroup dataset was transformed by using the **Bag of word** and **Term
 `sci_count_train.csv` `sci_count_test.csv` `sci_binary_train.csv` `sci_binary_test.csv` `sci_tfidf_train.csv` `sci_tfidf_test.csv`
 
 `talk_count_train.csv` `talk_count_test.csv` `talk_binary_train.csv` `talk_binary_test.csv` `talk_tfidf_train.csv` `talk_tfidf_test.csv`
-
-`other_count_train.csv` `other_count_test.csv` `other_binary_train.csv` `other_binary_test.csv` `other_tfidf_train.csv` `other_tfidf_test.csv`
